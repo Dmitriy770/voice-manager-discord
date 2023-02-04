@@ -8,7 +8,7 @@ Technologies:
 
 ## Quick demo
 ![creating voice](https://github.com/Dmitriy770/voice-manager-discord/blob/master/description_assets/CreateVoice.gif)
-![audit logs](https://github.com/Dmitriy770/voice-manager-discord/blob/main/description_assets/auditlog.png)
+![audit logs](https://github.com/Dmitriy770/voice-manager-discord/blob/master/description_assets/auditlog.png)
 ## Description
 bot token and channel ID are specified in environment variables
 
