@@ -10,7 +10,7 @@ Technologies:
 ![creating voice](https://github.com/Dmitriy770/voice-manager-discord/blob/master/description_assets/CreateVoice.gif)
 ![audit logs](https://github.com/Dmitriy770/voice-manager-discord/blob/master/description_assets/auditlog.png)
 ## Description
-bot token and channel ID are specified in environment variables
+Bot token and channels ID are specified in environment variables
 
 Commands:
 - /set-voice-name - sets the name of the voice channel
