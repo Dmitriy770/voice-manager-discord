@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "DiscordBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "guildId": "528491586372370452",
+        "auditLogChannelId": "829399283761414204",
+        "createVoiceChannelId": "947492715321511976",
+        "token": "NzM0NzMzNjQ1OTAxNzI1NzY2.GhDDp5.bsxR2xoS0xot33Ql8GWh2cDrvuF_aNLYqc579M"
+      },
+      "hotReloadEnabled": false
+    }
+  }
+}
